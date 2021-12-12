@@ -2,10 +2,10 @@ variable "region" {
 default = "ap-south-1"
 }
 variable "access_key" {
-default = "AKIA3Z7P4Y3243GQMTGL"
+default = "XXXXXXXXXXXXXXX"
 }
 variable "secret_key" {
-default = "PHXS2zorHAzFZBGX5PCtjA1i9pfhHN3juUrm1YiR"
+default = "YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY"
 }
 variable "project" {
 default = "alb-website"
